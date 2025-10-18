@@ -32,7 +32,6 @@ import SideBarContent from './components/SideBarContent'
 import SideBarDrawer from './components/SideBarDrawer'
 import CONFIG from './config'
 import { Style } from './style'
-import { useRouter } from 'next/router'
 
 // const AlgoliaSearchModal = dynamic(() => import('@/components/AlgoliaSearchModal'), { ssr: false })
 
