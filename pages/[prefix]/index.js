@@ -66,7 +66,6 @@ const Slug = props => {
       }
     }
   }, [post])
-  // console.log('这是哪----', post);
 
   // 文章加载
   useEffect(() => {
